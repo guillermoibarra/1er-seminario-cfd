@@ -4,4 +4,4 @@ Presentaciones del 1er Seminario sobre las Aplicaciones de CFD con Código de Fu
 # Contacto
 
 Para información adicional puede contactar:
- - 
+ - Eduardo Sainz Mejia: eduardo.sainz@inin.gob.mx
